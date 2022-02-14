@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"file": "adminlte.extra-components.css",
+	"file": "adminlte.extra-components.css", 
 	"sources": [
 		"../../../build/scss/AdminLTE-extra-components.scss",
 		"../../../node_modules/bootstrap/scss/_functions.scss",

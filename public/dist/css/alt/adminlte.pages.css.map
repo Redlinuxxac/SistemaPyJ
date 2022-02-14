@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"file": "adminlte.pages.css",
+	"file": "adminlte.pages.css", 
 	"sources": [
 		"../../../build/scss/AdminLTE-pages.scss",
 		"../../../node_modules/bootstrap/scss/_functions.scss",

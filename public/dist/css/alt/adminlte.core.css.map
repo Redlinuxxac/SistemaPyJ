@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "adminlte.core.css",
-	"sources": [
+	"sources": [ 
 		"../../../build/scss/AdminLTE-core.scss",
 		"../../../node_modules/bootstrap/scss/_functions.scss",
 		"../../../build/scss/_bootstrap-variables.scss",
